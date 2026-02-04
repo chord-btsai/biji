@@ -1,0 +1,11 @@
+# Exclude volatile UI-related state and cache files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/graph.json
+
+# Exclude OS-specific files and trash
+.trash/
+.DS_Store
+Thumbs.db
+
