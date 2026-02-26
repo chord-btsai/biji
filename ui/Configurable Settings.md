@@ -3,6 +3,7 @@ Input
 ---
 - key binds
 - toggle touch mode
+- touch input object type that contains numpad
 
 Icon Sets
 ---
