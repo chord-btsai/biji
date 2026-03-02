@@ -1,4 +1,4 @@
-Window object utility
+## Window object utility
 - configurable style, flags, etc.
 - should the window only allow one of its kind open at a time
 - should the window types all share location?
