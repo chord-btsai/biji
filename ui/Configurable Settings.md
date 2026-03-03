@@ -18,3 +18,9 @@ Icon Sets
 Maps
 ---
 - map style selection
+
+## Status bar toggles
+- LL coordinate should be clickable to switch to MGRS?
+	- idk if we always want this to be a global setting that ppl have to go into a menu and change
+	- this quick toggle is nice and convenient
+	- like waybar's toggle icons
