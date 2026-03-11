@@ -8,3 +8,7 @@
 - should the window types all share size?
 - configurable close window button
 	- size
+
+## Window Layout System
+- Need sidebars or panels that can open up a main activity window
+	- maybe main activity window area coudl be like tiling windows (hyprland), divides area
