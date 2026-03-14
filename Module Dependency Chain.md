@@ -1,0 +1,8 @@
+- agent_manager
+- c3
+- activities
+- tcms
+- sync
+- ipc
+- r2imgui
+- utils
