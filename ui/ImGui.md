@@ -11,4 +11,4 @@
 
 ## Window Layout System
 - Need sidebars or panels that can open up a main activity window
-	- maybe main activity window area coudl be like tiling windows (hyprland), divides area
+	- maybe main activity window area could be like tiling windows (hyprland), divides area
