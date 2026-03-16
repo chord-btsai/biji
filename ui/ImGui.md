@@ -8,6 +8,7 @@
 - should the window types all share size?
 - configurable close window button
 	- size
+- kawase blur utility? or flag?
 
 ## Window Layout System
 - Need sidebars or panels that can open up a main activity window
