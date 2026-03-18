@@ -15,11 +15,13 @@
 	- maybe main activity window area could be like tiling windows (hyprland), divides area
 	
 - USER TASKS:
-	- camera movement (pan + zoom)
-	- selecting agents
-		- for a ttp
-		- for RTL
-	- drawing a tcm
+	- non-draw mode
+		- select agents (via panel click or clicking directly on agent object)
+		- camera movement (pan + zoom)
+			- ==this should be the default thing they're setup to do, no extra input beyond the actions==
+	- draw mode
+		- lasso selecting agents
+		- drawing a tcm
 	- setting up ttps
 		- pre-emptively, not executing right away
 		- going to execute one right away
