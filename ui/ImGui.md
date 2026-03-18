@@ -40,19 +40,22 @@
 			- minimal icon w/ number
 			- expanded list with msgs etc.
 
-
-- A
-	- (select agents)
-	- draw tcm
-	- (select agents)
-	- make TTP
-	- (select agents)
-	- execute
-- B
-	- (select agents)
-	- make TTP
-	- (select agents)
-	- draw tcm
-	- (select agents)
-	- execute
-- C
+## Action Sequence Time Estimates
+- Enter/Exit draw mode ==(1s)==
+- Lasso (de)select ==(5s)==
+	- enter draw mode (1s)
+	- draw lasso (3s)
+	- choose '(de)select agents' from options (1s)
+- Create TCM ==(12s)==
+	- enter draw mode (1s)
+	- draw TCM (5s)
+	- edit points or type (5s)
+	- confirm TCM (1s) 
+- Create TTP ==(5-7s)==
+	- drag TTP icon to location (2s)
+	- adjust parameters (3-5s)
+- Execute TTP ==(6-8s)==
+	- create TTP (5-7s)
+	- click execute on TTP window (1s)
+- Investigate an object detection
+	- Look at 
