@@ -13,3 +13,27 @@
 ## Window Layout System
 - Need sidebars or panels that can open up a main activity window
 	- maybe main activity window area could be like tiling windows (hyprland), divides area
+	
+- USER TASKS:
+	- camera movement (pan + zoom)
+	- selecting agents
+		- for a ttp
+		- for RTL
+	- drawing a tcm
+	- setting up ttps
+		- pre-emptively, not executing right away
+		- going to execute one right away
+			- don't care who takes
+			- selected agents
+- MUST BE VISIBLE AT ALL TIMES:
+	- agent panel
+		- toggle
+			- minimal icon w/ name, health, battery, altitude
+			- expanded
+	- TTP bar
+		- maybe hide/show based on user task focus
+			- when editing tcm, can't use it anyways
+	- notifications 
+		- toggle
+			- minimal icon w/ number
+			- expanded list with msgs etc.
