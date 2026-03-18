@@ -39,3 +39,20 @@
 		- toggle
 			- minimal icon w/ number
 			- expanded list with msgs etc.
+
+
+- A
+	- (select agents)
+	- draw tcm
+	- (select agents)
+	- make TTP
+	- (select agents)
+	- execute
+- B
+	- (select agents)
+	- make TTP
+	- (select agents)
+	- draw tcm
+	- (select agents)
+	- execute
+- C
