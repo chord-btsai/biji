@@ -58,4 +58,7 @@
 	- create TTP (5-7s)
 	- click execute on TTP window (1s)
 - Investigate an object detection
-	- Look at 
+	- Notice notification
+	- Click notification
+		- NEED TO INDICATE CLICKABILITY MORE
+			- and what the click will do
