@@ -6,5 +6,6 @@
 - thinking again about the UI window layout and how we convey the user's possible actions to them
 
 - need updated link with event token for fort hood access request link
-- making some mockups of how screenspace can be divided
-	- some optional areas that aren't being utilized right now
+- drawing up some layouts of how screenspace can be divided
+	- also writing down additional interaction notes for specific actions/components I think of along the way
+	- 
