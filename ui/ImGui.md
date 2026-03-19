@@ -67,3 +67,11 @@
 	- Click notification
 		- NEED TO INDICATE CLICKABILITY MORE
 			- and what the click will do
+## Action Specifics
+- Create TTP
+	- maybe the window should always be underneath the icon
+		- reinforce positioning
+		- reinforce window being related to icon
+	- dragging it should make the window transparent
+		- see things below the icon for positioning
+	- Tap: toggle window
