@@ -40,6 +40,11 @@
 			- minimal icon w/ number
 			- expanded list with msgs etc.
 
+- single taps for info
+	- agent panel: health status info
+- double taps for action
+	- agent panel: go to
+
 ## Action Sequence Time Estimates
 - Enter/Exit draw mode ==(1s)==
 - Lasso (de)select ==(5s)==
