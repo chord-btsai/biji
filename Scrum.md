@@ -5,7 +5,9 @@
 - some PR reviewing
 - thinking again about the UI window layout and how we convey the user's possible actions to them
 
-- need updated link with event token for fort hood access request link
+- merged ttp builder window updates
+- merged new developer tools toggle (ctrl + shift + D)
+- adding tcm editor window updates
 - drawing up some layouts of how screenspace can be divided
 	- also writing down additional interaction notes for specific actions/components I think of along the way
-	- 
+- need updated link with event token for fort hood access request link
