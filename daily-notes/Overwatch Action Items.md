@@ -10,3 +10,6 @@
 
 ==Map tiles==
 - [ ] in addition to verifying JJs tiles, upload QGC tiles, get that working
+
+==Feedback collection==
+- [ ] auto screen record w/ tempo alias
