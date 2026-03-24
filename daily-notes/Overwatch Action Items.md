@@ -8,6 +8,7 @@
 
 ==TEMPO UX==
 - [ ] TCM saving/loading for one time digitization persistence
+- [ ] routes with chevrons or some directional indicator
 
 ==Map tiles==
 - [ ] in addition to verifying JJs tiles, upload QGC tiles, get that working
