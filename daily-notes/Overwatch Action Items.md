@@ -46,3 +46,26 @@
 	- clear button doesn't sound right
 	- time aspect sounds right, but how
 - set battery failsafe from UI
+
+---
+## 3/25 Notes
+
+### Observations:
+- we lost comms about 1.5km out from radio and single drone
+- improved comms to about 2km using a repeater drone
+- drones tasked with Observe appear a different color
+	- could be linked to drones that lose comms and then come back
+	- nothing bad happened though (pog)
+### Todos:
+- test QGC app image on tablet
+- test ATR around the TAA and get a ratio of false positives to real ones
+- get unified operator view feedback from Cpt. Max Laguna
+### Needs:
+- support QGC tiles
+- support TAK interface for TCM ingestion
+- allow for MGRS input
+- permanent dismissal of situation objects
+	- drone is stationary and repeatedly detecting the same false positive
+- get thermal cameras going w/ ATR
+- training our ATR model using the imagery the operator receives and the identification they input
+- bring a footage mule drone
