@@ -57,7 +57,7 @@
 	- could be linked to drones that lose comms and then come back
 	- nothing bad happened though (pog)
 ### Todos:
-- test QGC app image on tablet
+- test QGC app image on tablet, tomorrow
 - test ATR around the TAA and get a ratio of false positives to real ones
 - get unified operator view feedback from Cpt. Max Laguna
 - make geofence service auto push to drones
