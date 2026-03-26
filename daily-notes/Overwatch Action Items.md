@@ -60,6 +60,7 @@
 - test QGC app image on tablet
 - test ATR around the TAA and get a ratio of false positives to real ones
 - get unified operator view feedback from Cpt. Max Laguna
+- make geofence service auto push to drones
 ### Needs:
 - support QGC tiles
 - support TAK interface for TCM ingestion
