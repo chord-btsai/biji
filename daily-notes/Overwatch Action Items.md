@@ -69,3 +69,14 @@
 - get thermal cameras going w/ ATR
 - training our ATR model using the imagery the operator receives and the identification they input
 - bring a footage mule drone
+### Matt Notes
+- TCM export/import
+- better ATR and training on their vehicles, take footage
+- operator confirm a detection before publishing to TAK
+	- Cpt. Laguna has experienced a diff system just flooding TAK
+- interest in mesh network, to reach farther distances and maintaining comms, get more out of the cheaper platforms
+- making a user story to represent their workflow
+	- pulled up a phone w/ a picture of a physical map that had MGRS coordinates with marker on it
+	- also on TAK stuff, we want to automate things
+- allow users to import custom maps (or map layers, etc.)
+	- allow users to use maps they are used to
