@@ -81,3 +81,13 @@
 	- also on TAK stuff, we want to automate things
 - allow users to import custom maps (or map layers, etc.)
 	- allow users to use maps they are used to
+
+---
+## 3/26 Notes
+
+### Observations:
+- our comms stopped working
+	- probably sync's fault (James saw similar thing)
+### Todos:
+
+### Needs:
