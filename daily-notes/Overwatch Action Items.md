@@ -107,3 +107,11 @@
 - some operators don't have all coordinates, really need ATAK TCM ingestion
 - improved image clarity and size
 	- allow zooming within image itself
+
+### Matt Notes:
+- QGC land in place
+- restart C2 to regain connection to RTL
+- system comms stopped working even with good network
+- on restarts, task status was gone in agent visuals as they were executing
+	- shouldn't have to restart the UI
+	- if we do, it shouldn't break
