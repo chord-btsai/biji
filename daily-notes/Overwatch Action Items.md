@@ -88,6 +88,22 @@
 ### Observations:
 - our comms stopped working
 	- probably sync's fault (James saw similar thing)
+- ImGui status bar still receiving click behind windows (maybe just disable this honestly)
+	- settings menu is needed, but we need window layout
+- radial fence issues and sometimes pushing to drones not working when they were restarted
+- RTL always completes as red
+- lost comms, QGC return didn't work
+	- return resulted in land in place
+- TCM sync issues when restarting
+- tactic chaining with selected agents feels weird w/ the tactic agent count parameter field
+	- default value should probably be based on parent tactic's agent count
+	- default value needs to be dynamic based on context
 ### Todos:
 
 ### Needs:
+- land tactic to not give away position
+	- they typically pop in/out of concealment to hand launch
+	- accommodate this
+- some operators don't have all coordinates, really need ATAK TCM ingestion
+- improved image clarity and size
+	- allow zooming within image itself
