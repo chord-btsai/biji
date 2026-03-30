@@ -6,3 +6,8 @@
 - drawing up some layouts of how screenspace can be divided
 	- also writing down additional interaction notes for specific actions/components I think of along the way
 - need updated link with event token for fort hood access request link
+
+- updated the after action report for overwatch
+	- broken up into a few sections, major blockers, things that need to be updated/reworked, new features needed, and minor fixes
+- did some mockups for a window layout
+	- still messing around with some options
