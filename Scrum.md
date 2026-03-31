@@ -1,13 +1,4 @@
-- merged ttp builder window updates
-- merged new developer tools toggle (ctrl + shift + D)
-- reviewed a few PRs for Eugene
-	- concave polygon support w/ shoelace formula
-- adding tcm editor window updates
-- drawing up some layouts of how screenspace can be divided
-	- also writing down additional interaction notes for specific actions/components I think of along the way
-- need updated link with event token for fort hood access request link
-
-- updated the after action report for overwatch
-	- broken up into a few sections, major blockers, things that need to be updated/reworked, new features needed, and minor fixes
-- did some mockups for a window layout
-	- still messing around with some options
+- spoke with Dan about some of the layout mockups
+	- have some ideas to update that
+- uploaded travel receipts
+- pivoting back to tcm/ttp import/export
