@@ -4,4 +4,6 @@
 - pivoting back to tcm/ttp import/export
 	- have tcms exporting to a json file in the resources directory
 		- need to make a unit test
+		- will have to treat asset groups differently, maybe don't save these
 	- working on import for json file
+		- will need to handle name collisions
