@@ -2,4 +2,6 @@
 	- have some ideas to update that
 - uploaded travel receipts
 - pivoting back to tcm/ttp import/export
-	- working on just getting tcm/ttp methods to export a json object first
+	- have tcms exporting to a json file in the resources directory
+		- need to make a unit test
+	- working on import for json file
