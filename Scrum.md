@@ -7,3 +7,7 @@
 		- will have to treat asset groups differently, maybe don't save these
 	- working on import for json file
 		- will need to handle name collisions
+
+- reviewed some of Eugene's work for geometric tcms
+- made first PR for TCM save/loading functionality and unit test
+- UI for it will come next
