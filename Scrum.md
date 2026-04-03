@@ -1,13 +1,4 @@
-- spoke with Dan about some of the layout mockups
-	- have some ideas to update that
-- uploaded travel receipts
-- pivoting back to tcm/ttp import/export
-	- have tcms exporting to a json file in the resources directory
-		- need to make a unit test
-		- will have to treat asset groups differently, maybe don't save these
-	- working on import for json file
-		- will need to handle name collisions
-
-- reviewed some of Eugene's work for geometric tcms
-- made first PR for TCM save/loading functionality and unit test
-- UI for it will come next
+- merged bugfix for c2 status bar receiving clicks behind windows
+- merged in tcm save/load functionality
+	- PR to expose this in UI soonTM
+	- 
